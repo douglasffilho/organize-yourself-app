@@ -16,3 +16,4 @@ web-report/
 # General
 *.lock
 *.log
+*.out
